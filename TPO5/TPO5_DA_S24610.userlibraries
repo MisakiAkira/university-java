@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="mysql-connector-j-8.0.33">
+    <archive path="D:/TPO/TPO5_DA_S24610/lib/mysql-connector-j-8.0.33.jar" />
+  </library>
+  <library name="servlet">
+    <archive path="D:/TPO/TPO5_DA_S24610/lib/servlet.jar" />
+  </library>
+</eclipse-userlibraries>
+
